@@ -1,0 +1,5 @@
+libubox,ubus: openwrt-v19.07.3
+libjson-c:v0.14
+
+libubox:7da66430de3fc235bfc6ebb0b85fb90ea246138d
+ubus:041c9d1c052bb4936fd03240f7d0dd64aedda972
